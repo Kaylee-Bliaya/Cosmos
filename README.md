@@ -1,1 +1,2 @@
-# Cosmos: Habit-Tracker
+# SimpleApp
+Calendar, Reminders, Habits
