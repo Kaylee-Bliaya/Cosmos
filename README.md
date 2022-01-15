@@ -1,1 +1,1 @@
-# Cosmos---Habit-Tracker
+# Cosmos: Habit-Tracker
