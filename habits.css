@@ -1,0 +1,16 @@
+.habit-heading {
+	padding: 5px;
+	margin-bottom: 25px;
+}
+
+.action-box {
+	padding: 10px;
+	padding-bottom: 20px;
+	margin-bottom: 25px;
+}
+
+.alert {
+	padding: 7px;
+	margin-bottom: 0px;
+	text-align: center;
+}
